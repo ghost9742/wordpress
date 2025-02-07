@@ -1,0 +1,6 @@
+[17-Dec-2024 01:11:22 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\milos\Local Sites\practice2\app\public\wp-content\themes\aquila\functions.php on line 8
+[17-Dec-2024 01:11:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\milos\Local Sites\practice2\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[17-Dec-2024 01:11:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\milos\Local Sites\practice2\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Feb-2025 00:36:43 UTC] PHP Warning:  Array to string conversion in C:\Users\milos\Local Sites\practice2\app\public\wp-content\themes\fictional-university-theme\index.php on line 7
+[05-Feb-2025 00:36:51 UTC] PHP Warning:  Array to string conversion in C:\Users\milos\Local Sites\practice2\app\public\wp-content\themes\fictional-university-theme\index.php on line 7
+[05-Feb-2025 00:36:52 UTC] PHP Warning:  Array to string conversion in C:\Users\milos\Local Sites\practice2\app\public\wp-content\themes\fictional-university-theme\index.php on line 7
